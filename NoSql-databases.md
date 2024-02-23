@@ -4,7 +4,7 @@
 
 In this technical paper, we will explore NoSQL databases, types of NoSQL databases, their data model in brief and Advantages of each NoSQL databases.
 
-##NoSQL databases
+## NoSQL databases
 
 NoSQL databases are non-tabular databases and store data differently than relational tables. NoSQL databases are often used for big data applications where scalability is important. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. 
 
