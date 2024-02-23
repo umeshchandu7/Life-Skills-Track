@@ -1,6 +1,6 @@
-#NoSQL Databases
+# NoSQL Databases
 
-##Introduction
+## Introduction
 
 In this technical paper, we will explore NoSQL databases, types of NoSQL databases, their data model in brief and Advantages of each NoSQL databases.
 
