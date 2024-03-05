@@ -37,4 +37,19 @@ It needs to follow the following steps
 * Response
 * Reward.
 
+### Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
+One habit I'd like to do more of is reading. I can make this habit more easy in the following ways:
+
+- Establishing a goal to accomplish reading a specific number of pages for a day.
+- I will power off my mobile to avoid distractions while reading.
+
+### Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+
+Spending time on social media is one bad habit that needs to be optimized.
+
+#### steps
+
+* Monitoring screen time and maintaining alerts after completion of the limit set for the day.
+* Avoiding mobile as much as possible.
+* Maintaining a chart that tells the streak of good maintenance of the phone.
